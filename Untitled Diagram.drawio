@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T13:20:50.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="uFH3bpR_nY3P2gsypaDN" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-05T13:23:49.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-qlYUZhiNCkxn7aPLXI8" version="20.4.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="원인연쇄분석">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -330,57 +330,57 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wh3L1zmuvAHvQSguvQ3A" name="흐름도">
-    <mxGraphModel dx="999" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;쓰레기통이 종류별로 &lt;br&gt;구비되어 있는가?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="270" height="150" as="geometry" />
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;쓰레기통이 종류별로 &lt;br&gt;구비되어 있는가?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="206" y="170" width="270" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;쓰레기통을 쉽게&lt;br&gt;찾아낼 수 있는가?&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="490" width="270" height="150" as="geometry" />
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;쓰레기통을 쉽게&lt;br&gt;찾아낼 수 있는가?&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="206" y="490" width="270" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xLecUq4ia6tsm7FEhDOk-1">
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xLecUq4ia6tsm7FEhDOk-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="380" as="sourcePoint" />
-            <mxPoint x="790" y="245" as="targetPoint" />
+            <mxPoint x="376" y="380" as="sourcePoint" />
+            <mxPoint x="706" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xLecUq4ia6tsm7FEhDOk-1">
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xLecUq4ia6tsm7FEhDOk-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="380" as="sourcePoint" />
-            <mxPoint x="425" y="490" as="targetPoint" />
+            <mxPoint x="376" y="380" as="sourcePoint" />
+            <mxPoint x="341" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-6" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="640" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-6" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="556" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-7" value="분리수거 하지 않고 &lt;br&gt;모든 쓰레기를 한 곳에 모아 버린다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="790" y="197.5" width="280" height="95" as="geometry" />
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-7" value="분리수거 하지 않고 &lt;br&gt;모든 쓰레기를 한 곳에 모아 버린다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="706" y="197.5" width="294" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-8" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="360" y="384" width="60" height="30" as="geometry" />
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-8" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="276" y="384" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.529;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xLecUq4ia6tsm7FEhDOk-3" target="xLecUq4ia6tsm7FEhDOk-7">
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.529;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xLecUq4ia6tsm7FEhDOk-3" target="xLecUq4ia6tsm7FEhDOk-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="435" y="330" as="sourcePoint" />
-            <mxPoint x="435" y="500" as="targetPoint" />
+            <mxPoint x="351" y="330" as="sourcePoint" />
+            <mxPoint x="351" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-10" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="650" y="414" width="60" height="30" as="geometry" />
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-10" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="566" y="414" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xLecUq4ia6tsm7FEhDOk-3">
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xLecUq4ia6tsm7FEhDOk-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="575" as="sourcePoint" />
-            <mxPoint x="790" y="565" as="targetPoint" />
+            <mxPoint x="486" y="575" as="sourcePoint" />
+            <mxPoint x="706" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-13" value="분리수거 후 쓰레기통에 버린다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="790" y="517.5" width="280" height="95" as="geometry" />
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-13" value="분리수거 후 쓰레기통에 버린다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="706" y="517.5" width="280" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="xLecUq4ia6tsm7FEhDOk-14" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="650" y="582.5" width="60" height="30" as="geometry" />
+        <mxCell id="xLecUq4ia6tsm7FEhDOk-14" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="566" y="582.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
