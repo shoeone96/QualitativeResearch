@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T13:23:49.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-qlYUZhiNCkxn7aPLXI8" version="20.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-05T13:28:19.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Mv75C2RnEPBmFxcyXTs6" version="20.4.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="원인연쇄분석">
-    <mxGraphModel dx="1425" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -99,7 +99,7 @@
             <mxPoint x="680" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6OCa4aNCbC0fKS31358K-25" value="발생하는 쓰레기 중 &lt;br&gt;일반 쓰레기의 비중이 높다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="6OCa4aNCbC0fKS31358K-25" value="발생하는 쓰레기 중 &lt;br&gt;일반 쓰레기의 비중이 높다" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="670" y="200" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6OCa4aNCbC0fKS31358K-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6OCa4aNCbC0fKS31358K-25" target="w1iPsKZ6HMQtFKcqUV05-2" edge="1">
@@ -119,10 +119,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6OCa4aNCbC0fKS31358K-29" value="한강공원에 쓰레기통 &lt;br&gt;위치에 대한 안내가 없다" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="6OCa4aNCbC0fKS31358K-29" value="한강공원이 쓰레기통를 &lt;br&gt;안내하지 않는다" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="540" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w1iPsKZ6HMQtFKcqUV05-2" value="배달 용기에 음식물이 묻어 &lt;br&gt;일반쓰레기가 되기 때문이다" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="w1iPsKZ6HMQtFKcqUV05-2" value="배달 용기에 음식물이 묻어 &lt;br&gt;일반쓰레기가 된다" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="665" y="360" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w1iPsKZ6HMQtFKcqUV05-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="w1iPsKZ6HMQtFKcqUV05-2" target="6OCa4aNCbC0fKS31358K-27" edge="1">
@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LOL4ew1NXRWEilhFdrT8" name="분류체계분석">
-    <mxGraphModel dx="1049" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,7 +291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nmauzQEFoY4yYm-5YQ19" name="시간계획분석">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wh3L1zmuvAHvQSguvQ3A" name="흐름도">
-    <mxGraphModel dx="919" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
